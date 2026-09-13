@@ -11,7 +11,7 @@
       "name": "CENTRAL_HEATER_BLAZING_SEARCH",
       "constructor": "(Ljava/util/function/Supplier;)V",
       "parameters": {
-        "class": "com/minecart/central_heater/misc/enumeration/EnumProxyParam",
+        "class": "com/minecart/central_heater/misc/enumeration/ClientEnumProxyParam",
         "field": "BLAZING_SEARCH_PROXY"
       }
     },
@@ -20,7 +20,7 @@
       "name": "CENTRAL_HEATER_BLAZING_MISC",
       "constructor": "(Ljava/util/function/Supplier;)V",
       "parameters": {
-        "class": "com/minecart/central_heater/misc/enumeration/EnumProxyParam",
+        "class": "com/minecart/central_heater/misc/enumeration/ClientEnumProxyParam",
         "field": "BLAZING_FURNACE_MISC_PROXY"
       }
     },
